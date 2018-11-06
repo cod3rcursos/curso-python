@@ -7,7 +7,7 @@ for chave in produto:
 for valor in produto.values():
     print(valor)
 
-for chave2, valor2 in produto.items():
-    print(chave2, '=', valor2)
+for chave, valor in produto.items():
+    print(chave, '=', valor)
 
-print(chave, valor, chave2, valor2)
+print(chave, valor)
