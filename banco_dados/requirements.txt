@@ -1,0 +1,1 @@
+mysql-connector==2.2.9
